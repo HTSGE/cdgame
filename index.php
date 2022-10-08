@@ -2,7 +2,7 @@
 <html lang="zh">
 
 <head>
-    <title data-i18n="eat-kano"></title>
+    <title>曹蛋游戏 | 网页版</title>
     <meta itemprop="name" content="曹蛋游戏 | 网页版" />
     <meta itemprop="description" content="新概念音游" />
     <meta charset="utf-8" />
